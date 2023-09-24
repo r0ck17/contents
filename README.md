@@ -6,4 +6,4 @@
 - **Networking**
   - [Работа с сетями.](https://github.com/r0ck17/http-networking) HTTP сервер своими руками
 - **Итоговое задание**
-  - [MVC приложение.]() Servlet-maven
+  - [MVC приложение.](https://github.com/r0ck17/mvc-app) Servlet-maven
