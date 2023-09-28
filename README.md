@@ -12,4 +12,4 @@
 - **Git**
   - [Задание 1.](https://github.com/r0ck17/MergeExperience/tree/develop_evgeniy) Git. Работа с ветками
 - **SQL**
-  - [Задание 1.]() Библиотека
+  - [Задание 1.](https://github.com/r0ck17/introduction-to-sql) Библиотека
