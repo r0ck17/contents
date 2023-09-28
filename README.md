@@ -1,4 +1,4 @@
-### Модуль 1. Jakarta-Maven-Tomcat
+### Модуль 1. Jakarta. Maven. Tomcat
 - **Maven**
   - [Задание 1.](https://github.com/r0ck17/introduction-to-maven) Список технологий enterprise edition (jakarta)
   - [Задание 2.1.](https://github.com/r0ck17/multi-module-web-project)  Многомодульный web проект
@@ -7,3 +7,9 @@
   - [Работа с сетями.](https://github.com/r0ck17/http-networking) HTTP сервер своими руками
 - **Итоговое задание**
   - [MVC приложение.](https://github.com/r0ck17/mvc-app) Servlet-maven
+
+### Модуль 2. Git. SQL
+- **Git**
+  - [Задание 1.](https://github.com/r0ck17/MergeExperience/tree/develop_evgeniy) Git. Работа с ветками
+- **SQL**
+  - [Задание 1.]() Библиотека
