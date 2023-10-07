@@ -20,3 +20,4 @@
 - **JDBC**
   - [Задание 1.](https://github.com/r0ck17/introduction-to-jdbc/tree/c48025b660f7018f1d4b5d430022e9b6a49ab1f5) Запросы через JDBC 
   - [Задание 2.](https://github.com/r0ck17/introduction-to-jdbc) DAO слой
+  - [Задание 3.](https://github.com/r0ck17/mvc-app/tree/jdbc) JSON - JDBC
