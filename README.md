@@ -4,18 +4,15 @@
   - [Задание 2.1.](https://github.com/r0ck17/multi-module-web-project)  Многомодульный web проект
   - [Задание 2.2.](https://github.com/r0ck17/multi-module-web-project/tree/with-database) Многомодульный web проект. База данных
 - **Networking**
-  - [Работа с сетями.](https://github.com/r0ck17/http-networking) HTTP сервер своими руками
+  - [Задание 1.](https://github.com/r0ck17/http-networking) Работа с сетями. HTTP сервер
 - **Итоговое задание**
-  - [MVC приложение.](https://github.com/r0ck17/mvc-app) Servlet-maven
+  - [Задание 1.](https://github.com/r0ck17/mvc-app) MVC приложение. Сервлеты
 
 ---
 ### Модуль 2. Git. SQL
-- **Git**
-  - [Задание 1.](https://github.com/r0ck17/MergeExperience/tree/develop_evgeniy) Работа с ветками
-- **SQL**
-  - [Задание 1.](https://github.com/r0ck17/introduction-to-sql) База данных "Библиотека"
-- **Database**
-  - [Задание 1.](https://github.com/r0ck17/sql-flights) База данных "Международные перелеты"
+  - [Задание 1.](https://github.com/r0ck17/MergeExperience/tree/develop_evgeniy) Git. Работа с ветками
+  - [Задание 2.](https://github.com/r0ck17/introduction-to-sql) SQL. База данных "Библиотека"
+  - [Задание 3.](https://github.com/r0ck17/sql-flights) Database. База данных "Международные перелеты"
 
 ---
 ### Модуль 3. JDBC. Servlet. JSP
