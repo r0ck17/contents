@@ -22,6 +22,11 @@
 
 ---
 ### Модуль 4. Hibernate
-  - [Задание 1.](https://github.com/r0ck17/introduction-to-hibernate) Введение. Тесты
+  - [Задание 1.](https://github.com/r0ck17/introduction-to-hibernate) Введение
   - [Задание 2.](https://github.com/r0ck17/introduction-to-jdbc/tree/hibernate-logging) Логирование
   - [Задание 3.](https://github.com/r0ck17/hibernate-relational-mapping) Relational mapping
+
+---
+### Модуль 5. Hibernate 2
+- [Задание 1.](https://github.com/r0ck17/introduction-to-hql) HQL
+- [Задание 2.](https://github.com/r0ck17/introduction-to-hql/tree/query-dsl) QueryDSL 
